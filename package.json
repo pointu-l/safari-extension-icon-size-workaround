@@ -1,0 +1,10 @@
+{
+  "name": "safari-fixer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "ps-list": "^8.1.0"
+  }
+}
