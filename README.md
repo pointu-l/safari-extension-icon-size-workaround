@@ -2,6 +2,12 @@
 
 > only working for "noir" extension, this is a POC
 
+| Before  | After |
+| ------------- | ------------- |
+| ![](https://raw.githubusercontent.com/pointu-l/safari-extension-icon-size-workaround/main/before.png)  | ![](https://raw.githubusercontent.com/pointu-l/safari-extension-icon-size-workaround/main/after.png)  |
+
+
+
 ## What's the problem ?
 
 Some safari extensions icons are wrongly sized. Too small, or too big.
