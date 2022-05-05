@@ -22,5 +22,11 @@ When the script no longer see Safari, he undo the patch
 - You should no disable/re-enable the extension when file are patched. May cause a softlock too, forcing you to kill safari, wait 5s, relaunch, speedrun to the settings to enable the extension
 
 
+## Installation instructions
+/*
+ * wip
+ */
+
+
 ## Future ?
 Apple will probably fix that in a way of other, but if I discover things about the .car files issue, especially to start doing things programaticly for any extension ... that would be super cool 
